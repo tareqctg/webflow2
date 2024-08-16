@@ -1,5 +1,5 @@
 .header-text{
-    color: red;
+    color: black;
     padding: 30px;
     margin: 50px;
     border: 2px solid blue;
@@ -7,10 +7,17 @@
     background-image: url(im.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    text-align: justify;
-    display: flex;
-    column-gap: 30px;
-    justify-content: space-between;
-    flex-direction: row;
+    text-align: center ;
+   
 
+}
+
+.para{
+    width: 30%;
+    text-align: justify;
+    padding-left: 400px;
+}
+
+.desc{
+    text-align: center;
 }
